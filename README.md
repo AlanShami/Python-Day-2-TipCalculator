@@ -6,9 +6,9 @@ This is day 2 of 100 of learning Python and creating a project in Python
 
 10/03/2023
 
-![](https://github.com/AlanShami/Python-Day-1-BrandGenerator/blob/main/project_pic.png)
+![]([https://github.com/AlanShami/Python-Day-1-BrandGenerator/blob/main/project_pic.png](https://github.com/AlanShami/Python-Day-2-TipCalculator/blob/main/project_pic.png))
 
-- [main.py](https://github.com/AlanShami/Python-Day-1-BrandGenerator/blob/main/main.py)
+- [main.py](https://github.com/AlanShami/Python-Day-2-TipCalculator/blob/main/main.py)
 
 
 #Comments:
